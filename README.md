@@ -5,4 +5,4 @@ O modelo de regras desenvolvido, extende as regras **abnTeX2**.
 Para saber mais sobre, leia em [abntex/abntex2](https://github.com/abntex/abntex2/blob/master/README.md).
 
 ### Como usar?
-Ver [Wiki](https://github.com/pedruino/latex-rules-uniftec/wiki) para mais informações.
+Ver [Wiki](https://github.com/pedruino/latex-rules-uniftec/wiki/home) para mais informações.
